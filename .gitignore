@@ -38,7 +38,10 @@ Thumbs.db
 ##########
 
 # NPM Packages
-node_modules
+/node_modules
 
 # Sass map
 *.css.map
+
+# Jekyll
+/_site
