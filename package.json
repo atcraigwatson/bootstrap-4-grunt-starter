@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-4-grunt-starter",
+  "version": "0.0.1",
+  "description": "Bootstrap 4 Source Sass and JavaScript without the Docs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Watson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rokkitpress/bootstrap-4-grunt-starter"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-shell": "^2.1.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
